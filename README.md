@@ -4,6 +4,7 @@
 <p align="center">🚀 Landing page create with HTML and CSS.
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
+  <img src="https://img.shields.io/static/v1?label=vercel&message=deploy&color=blue&style=for-the-badge&logo=vercel"/>
 </p>
 
 
